@@ -15,7 +15,7 @@ A API oferece os seguintes endpoints:
 
 A API é projetada para ser segura e confiável, seguindo as melhores práticas de segurança, como o uso de uma chave secreta forte para assinar os tokens JWT.
 
-# Instalação
+## Instalação
 Clonando esse projeto em um diretório qualquer do computador:
 
 ``git clone https://github.com/franciscokkkjjjk/login-com-nodejs-e-mysql``
