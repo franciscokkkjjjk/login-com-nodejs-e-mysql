@@ -46,4 +46,3 @@ ou
 
 ``npm run start``
 
-# Em construção
